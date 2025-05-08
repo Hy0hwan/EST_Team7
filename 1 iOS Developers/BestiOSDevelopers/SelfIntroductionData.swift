@@ -1,7 +1,7 @@
 let people: [SelfIntroduction] = [
     SelfIntroduction(
         name: "최정은",
-        trainingPurpose: "dsvdfb",
+        trainingPurpose: "aaa",
         hobby: "음악 감상, 여행, 독서 등",
         mbti: "INTJ",
         strength: "끈기와 실행력",
