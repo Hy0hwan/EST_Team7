@@ -56,7 +56,7 @@ let people: [SelfIntroduction] = [
         mbti: "ESTJ",
         strength: "시간약속 철저히 지키기, 꼼꼼함",
         sns: nil,
-        etc: "취창업이나 디지털노마드 인생 가지는데 굉장히 관심 많습니다!",
+        etc: "취창업이나 디지털노마드 인생 가지는데 굉장히 관심 많습니다!"
 
     ),
     SelfIntroduction(
