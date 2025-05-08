@@ -91,7 +91,7 @@ let people: [SelfIntroduction] = [
     ),
     SelfIntroduction(
         name: "서희재",
-        trainingPurpose: "개발자로 직무 전환!!!",
+        trainingPurpose: "개발자로 직무 전환!!!!",
         hobby: "클라이밍, 음악 & 드라마 & 영화 감상",
         mbti: "INTP",
         strength: "실행력..?",
